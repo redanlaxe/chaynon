@@ -42,52 +42,36 @@ var KTChartsWidget16 = (function () {
 
             var data = [
                 {
-                    country: "US",
+                    country: "75",
                     visits: 725,
                 },
                 {
-                    country: "UK",
+                    country: "92",
                     visits: 625,
                 },
                 {
-                    country: "China",
+                    country: "49",
                     visits: 602,
                 },
                 {
-                    country: "Japan",
+                    country: "44",
                     visits: 509,
                 },
                 {
-                    country: "Germany",
+                    country: "31",
                     visits: 322,
                 },
                 {
-                    country: "France",
+                    country: "95",
                     visits: 214,
                 },
                 {
-                    country: "India",
+                    country: "77",
                     visits: 204,
                 },
                 {
-                    country: "Spain",
+                    country: "35",
                     visits: 198,
-                },
-                {
-                    country: "Italy",
-                    visits: 165,
-                },
-                {
-                    country: "Russia",
-                    visits: 130,
-                },
-                {
-                    country: "Norway",
-                    visits: 93,
-                },
-                {
-                    country: "Canada",
-                    visits: 41,
                 },
             ];
 
